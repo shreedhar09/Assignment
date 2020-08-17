@@ -1,0 +1,19 @@
+.heading {
+  padding-top: 30px;
+}
+.BG {
+  background: url(../Uploads/ApiBg.jpg) repeat;
+  min-height: 100vh; /* souvenir */
+  width: 100%;
+}
+.btnSub {
+  margin-left: 10px;
+}
+
+.pro {
+  margin-top: 10px;
+}
+.image {
+  height: 300px;
+  border: 5px white solid;
+}

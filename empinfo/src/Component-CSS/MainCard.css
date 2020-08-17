@@ -1,0 +1,23 @@
+.loginContainer {
+  padding: 50px 20px;
+  border: 1px solid #260a3d;
+  -webkit-box-shadow: 11px 9px 13px -5px rgba(0, 0, 0, 0.66);
+  -moz-box-shadow: 11px 9px 13px -5px rgba(0, 0, 0, 0.66);
+  box-shadow: 11px 9px 13px -5px rgba(0, 0, 0, 0.66);
+  border-radius: 57px 57px 57px 57px;
+  -moz-border-radius: 57px 57px 57px 57px;
+  -webkit-border-radius: 57px 57px 57px 57px;
+  background: url(../Uploads/LoginBackGround.png) repeat;
+  margin-top: 10px;
+  /*Transperent Card Because, didn't apply any color property */
+}
+
+.loginContainer > h3 {
+  text-align: center;
+  color: #c0c0c0;
+}
+
+.tags {
+  color: #c0c0c0;
+  text-align: center;
+}

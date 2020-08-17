@@ -1,0 +1,12 @@
+.searchBox {
+  padding-top: 10px;
+}
+.btnImg {
+  background-repeat: no-repeat;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.SearchDiv {
+  height: 38px;
+  background: #ededed;
+}

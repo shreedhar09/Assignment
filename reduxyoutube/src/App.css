@@ -1,0 +1,15 @@
+.other {
+  background-color: #ededed;
+  min-height: 93vh;
+}
+
+.name {
+  font-weight: 600;
+  font-size: x-large;
+}
+.img {
+  padding-bottom: 9px;
+}
+.logoMan {
+  padding-top: 5px;
+}

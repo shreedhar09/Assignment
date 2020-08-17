@@ -1,0 +1,24 @@
+.BackGround {
+  background: url(./uploads/Map.png);
+  width: 100%;
+  height: 100vh;
+  background-size: 100% 100%;
+}
+.BackGroundMon {
+  background: url(./uploads/Monsoon.jpg);
+  width: 100%;
+  height: 100vh;
+  background-size: 100% 100%;
+}
+.BackGroundWin {
+  background: url(./uploads/Winter.jpg);
+  width: 100%;
+  height: 100vh;
+  background-size: 100% 100%;
+}
+.BackGroundSum {
+  background: url(./uploads/Summer.jpg);
+  width: 100%;
+  height: 100vh;
+  background-size: 100% 100%;
+}
